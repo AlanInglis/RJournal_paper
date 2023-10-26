@@ -1,0 +1,34 @@
+Initial check results: 
+
+ERROR: Submission does not have consistently named tex, R files
+WARNING: The archive contains hidden files which will be removed: .DS_Store
+ERROR: File or directory names contain spaces or non-ASCII characters. For portability only use ASCII characters and no spaces in file and directory names.
+SUCCESS: No problematic file found
+NOTE: Motivation letter is not detected, if applicable
+ERROR: The title is not in title case! Suggest title to be changed to:
+Vivid: An R Package for Variable Importance and Variable Interactions Displays for Machine Learning Models
+SUCCESS: All sections are properly formatted in sentence case
+SUCCESS: Abstract comes before the introduction section
+NOTE: A potential list of spelling to check: asizing, interpretability, et, al, interpretable, bioinformatics, customizable, vivi, zenplot, zenpath, vip, datamodel, medv, vivimatarg, nmax, luminance, seriate, seriation, seriated, decile, cutree, asizes, igraph, zenplots, zpath, zp, viv, pre, antunes, apley, dalex, ingred, biecek, mlr, breiman, randomforest, chen, chipman, bart, vsup, uppressing, ncertainty, alettes, felzmann, netviz, pdp, greenwell, boston, nd, hierholzer, moglichkeit, ber, ö, glichkeit, pviz, condvis, inglis, bartvis, ishwaran, molnar, iml, corrgrapher, murray, kknn, sugiyama, corrplot, ggplot
+SUCCESS: CRAN activities have been detected for package vivid
+ERROR: 1 of 31 package(s) not available on CRAN: zenplot
+
+SUCCESS: 4 | NOTE: 2 | WARNING: 1 | ERROR: 4
+
+Initial check results: 
+
+ERROR: Submission does not have consistently named tex, R files
+WARNING: The archive contains hidden files which will be removed: .DS_Store
+SUCCESS: File and directory names are compliant.
+SUCCESS: No problematic file found
+NOTE: Motivation letter is not detected, if applicable
+ERROR: The title is not in title case! Suggest title to be changed to:
+Vivid: An R Package for Variable Importance and Variable Interactions Displays for Machine Learning Models
+SUCCESS: All sections are properly formatted in sentence case
+SUCCESS: Abstract comes before the introduction section
+NOTE: A potential list of spelling to check: asizing, interpretability, et, al, interpretable, bioinformatics, customizable, vivi, zenplot, zenpath, vip, datamodel, medv, vivimatarg, nmax, luminance, seriate, seriation, seriated, decile, cutree, asizes, igraph, zenplots, zpath, zp, viv, pre, antunes, apley, dalex, ingred, biecek, mlr, breiman, randomforest, chen, chipman, bart, vsup, uppressing, ncertainty, alettes, felzmann, netviz, pdp, greenwell, boston, nd, hierholzer, moglichkeit, ber, ö, glichkeit, pviz, condvis, inglis, bartvis, ishwaran, molnar, iml, corrgrapher, murray, kknn, sugiyama, corrplot, ggplot
+SUCCESS: CRAN activities have been detected for package vivid
+ERROR: 1 of 31 package(s) not available on CRAN: zenplot
+
+SUCCESS: 5 | NOTE: 2 | WARNING: 1 | ERROR: 3
+
